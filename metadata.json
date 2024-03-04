@@ -1,7 +1,7 @@
 {
   "name": "Dildollar",
   "symbol": "DILDO",
-  "uri": "https://github.com/SoftyMods/Dildollar/blob/main/dildollar.png?raw=true",
+  "uri": "https://raw.githubusercontent.com/SoftyMods/Dildollar/main/URI.json",
   "seller_fee_basis_points": 10,
   "fee_recipient": "8nWs3aYqnieyrNBRCspdvAEeUhciY6tZo7TPaKfry8P1",
   "seller_fee_collection_address": "8nWs3aYqnieyrNBRCspdvAEeUhciY6tZo7TPaKfry8P1",
