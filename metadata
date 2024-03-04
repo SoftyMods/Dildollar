@@ -1,9 +1,0 @@
-{
-  "name": "TOKEN_NAME", 
-  "symbol": "TOKEN_SYMBOL",
-  "uri": "TOKEN_URI",
-  "sellerFeeBasisPoints": 0,
-  "creators": null,
-  "collection": null,
-  "uses": null
-}
